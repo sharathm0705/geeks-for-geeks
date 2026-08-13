@@ -1,6 +1,6 @@
 # 🧩 GeeksforGeeks Solutions
 
-My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
+My daily GeeksforGeeks problem solutions in C++, Python and Java.
 
 | # | Problem Title | Language | Solved On | Solution | Details |
 |---|---|---|---|---|---|
