@@ -2,29 +2,17 @@
 
 ## Problem Statement
 Given a positive integer, n. Find the factorial of n.
-
-## Examples
-**Example 1:**
-```text
+Examples :
 Input: n = 5
 Output: 120
 Explanation: 1 x 2 x 3 x 4 x 5 = 120
-```
-
-**Example 2:**
-```text
 Input: n = 4
 Output: 24
 Explanation: 1 x 2 x 3 x 4 = 24
-```
-
-## Constraints
-```text
-0 <= n <= 12
-```
+Constraints:0 ≤ n ≤ 12
 
 ## Source
-[GeeksforGeeks Problem Link](https://www.geeksforgeeks.org/problems/factorial5739/1)
+[GeeksforGeeks Problem Link](https://www.geeksforgeeks.org/problems/factorial5739/1?page=1&difficulty=Basic)
 
 ## Language
 C++
