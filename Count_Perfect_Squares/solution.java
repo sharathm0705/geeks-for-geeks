@@ -1,0 +1,1 @@
+{"code":"class Solution {\n    static int countSquares(int n) {\n        // code here\n        if (n <= 1) {\n            return 0;\n        }\n        return (int) Math.sqrt(n - 1);\n    }\n}","lang":"java","pid":704184}
