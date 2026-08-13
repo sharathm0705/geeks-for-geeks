@@ -1,1 +1,7 @@
-{"code":"class Solution {\n  public:\n    int factorial(int n) {\n        // code here\n        int a = 1;\n        for(int i = 1;i<=n;i++)\n        {\n            a=a*i;\n        }\n        return a;\n    }\n};","lang":"cpp","pid":703913}
+class Solution{
+public:
+    long long int factorial(int N){
+        if (N <= 1) return 1;
+        return N * factorial(N - 1);
+    }
+};
