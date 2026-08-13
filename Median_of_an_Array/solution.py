@@ -1,0 +1,1 @@
+{"code":"class Solution:\n    def findMedian(self, arr):\n        #code here.\n        arr.sort()\n        n = len(arr)\n    \n        if n % 2 != 0:\n            return arr[n // 2]\n    \n        else:\n            mid1 = arr[(n // 2) - 1]\n            mid2 = arr[n // 2]\n            return (mid1 + mid2) / 2\n","lang":"python3","pid":703903}

@@ -5,3 +5,4 @@ My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
 | # | Problem Title | Language | Solved On | Solution | Details |
 |---|---|---|---|---|---|
 | 2 | Factorial | C++ | 2026-08-13 | [Factorial](./Factorial/solution.cpp) | [README](./Factorial/README.md) |
+| 2 | Median of an Array | Python3 | 2026-08-13 | [Median of an Array](./Median_of_an_Array/solution.py) | [README](./Median_of_an_Array/README.md) |
