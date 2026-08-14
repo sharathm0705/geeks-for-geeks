@@ -11,3 +11,4 @@ My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
 | 5 | Kth Smallest Element | C++ | 2026-08-13 | [C++](./Kth_Smallest_Element/solution.cpp) | [README](./Kth_Smallest_Element/README.md) |
 | 6 | Median of an Array | Python | 2026-08-14 | [Python](./Median_of_an_Array/solution.py) | [README](./Median_of_an_Array/README.md) |
 | 7 | Missing in Array | Python | 2026-08-14 | [Python](./Missing_in_Array/solution.py) | [README](./Missing_in_Array/README.md) |
+| 8 | Parenthesis Checker | Python | 2026-08-14 | [Python](./Parenthesis_Checker/solution.py) | [README](./Parenthesis_Checker/README.md) |
