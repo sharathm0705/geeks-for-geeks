@@ -9,3 +9,4 @@ My daily GeeksforGeeks problem solutions in C++, Python and Java.
 | 3 | Array Leaders | C++ | 2026-08-13 | [Array Leaders](./Array_Leaders/solution.cpp) | [README](./Array_Leaders/README.md) |
 | 4 | Kth Smallest Element | C++ | 2026-08-13 | [Kth Smallest Element](./Kth_Smallest_Element/solution.cpp) | [README](./Kth_Smallest_Element/README.md) |
 | 6 | Count Perfect Squares | Java | 2026-08-13 | [Count Perfect Squares](./Count_Perfect_Squares/solution.java) | [README](./Count_Perfect_Squares/README.md) |
+| 6 | Indexes of Subarray Sum | Python3 | 2026-08-14 | [Indexes of Subarray Sum](./Indexes_of_Subarray_Sum/solution.py) | [README](./Indexes_of_Subarray_Sum/README.md) |
