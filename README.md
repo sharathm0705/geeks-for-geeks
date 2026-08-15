@@ -9,7 +9,8 @@ My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
 | 3 | Factorial | C++ | 2026-08-13 | [C++](./Factorial/solution.cpp) | [README](./Factorial/README.md) |
 | 4 | Indexes of Subarray Sum | Python | 2026-08-14 | [Python](./Indexes_of_Subarray_Sum/solution.py) | [README](./Indexes_of_Subarray_Sum/README.md) |
 | 5 | Kth Smallest Element | C++ | 2026-08-13 | [C++](./Kth_Smallest_Element/solution.cpp) | [README](./Kth_Smallest_Element/README.md) |
-| 6 | Median of an Array | Python | 2026-08-14 | [Python](./Median_of_an_Array/solution.py) | [README](./Median_of_an_Array/README.md) |
-| 7 | Missing in Array | Python | 2026-08-14 | [Python](./Missing_in_Array/solution.py) | [README](./Missing_in_Array/README.md) |
-| 8 | Parenthesis Checker | Python | 2026-08-14 | [Python](./Parenthesis_Checker/solution.py) | [README](./Parenthesis_Checker/README.md) |
-| 9 | Prime Number | C++ | 2026-08-15 | [C++](./Prime_Number/solution.cpp) | [README](./Prime_Number/README.md) |
+| 6 | Majority Element | C++ | 2026-08-15 | [C++](./Majority_Element/solution.cpp) | [README](./Majority_Element/README.md) |
+| 7 | Median of an Array | Python | 2026-08-14 | [Python](./Median_of_an_Array/solution.py) | [README](./Median_of_an_Array/README.md) |
+| 8 | Missing in Array | Python | 2026-08-14 | [Python](./Missing_in_Array/solution.py) | [README](./Missing_in_Array/README.md) |
+| 9 | Parenthesis Checker | Python | 2026-08-14 | [Python](./Parenthesis_Checker/solution.py) | [README](./Parenthesis_Checker/README.md) |
+| 10 | Prime Number | C++ | 2026-08-15 | [C++](./Prime_Number/solution.cpp) | [README](./Prime_Number/README.md) |
