@@ -15,3 +15,4 @@ My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
 | 9 | Missing in Array | Python | 2026-08-14 | [Python](./Missing_in_Array/solution.py) | [README](./Missing_in_Array/README.md) |
 | 10 | Parenthesis Checker | Python | 2026-08-14 | [Python](./Parenthesis_Checker/solution.py) | [README](./Parenthesis_Checker/README.md) |
 | 11 | Prime Number | C++ | 2026-08-15 | [C++](./Prime_Number/solution.cpp) | [README](./Prime_Number/README.md) |
+| 12 | Reverse Digits | C++ | 2026-08-17 | [C++](./Reverse_Digits/solution.cpp) | [README](./Reverse_Digits/README.md) |
