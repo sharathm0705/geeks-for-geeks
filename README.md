@@ -16,4 +16,5 @@ My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
 | 10 | Parenthesis Checker | Python | 2026-08-14 | [Python](./Parenthesis_Checker/solution.py) | [README](./Parenthesis_Checker/README.md) |
 | 11 | Prime Number | C++ | 2026-08-15 | [C++](./Prime_Number/solution.cpp) | [README](./Prime_Number/README.md) |
 | 12 | Reverse Digits | C++ | 2026-08-17 | [C++](./Reverse_Digits/solution.cpp) | [README](./Reverse_Digits/README.md) |
-| 13 | Who has the majority? | Python | 2026-08-18 | [Python](./Who_has_the_majority/solution.py) | [README](./Who_has_the_majority/README.md) |
+| 13 | Triplets with Sum in Range | Python | 2026-08-19 | [Python](./Triplets_with_Sum_in_Range/solution.py) | [README](./Triplets_with_Sum_in_Range/README.md) |
+| 14 | Who has the majority? | Python | 2026-08-18 | [Python](./Who_has_the_majority/solution.py) | [README](./Who_has_the_majority/README.md) |
