@@ -15,6 +15,7 @@ My daily GeeksforGeeks problem solutions in C++, Python, Java, and JavaScript.
 | 9 | Missing in Array | Python | 2026-08-14 | [Python](./Missing_in_Array/solution.py) | [README](./Missing_in_Array/README.md) |
 | 10 | Parenthesis Checker | Python | 2026-08-14 | [Python](./Parenthesis_Checker/solution.py) | [README](./Parenthesis_Checker/README.md) |
 | 11 | Prime Number | C++ | 2026-08-15 | [C++](./Prime_Number/solution.cpp) | [README](./Prime_Number/README.md) |
-| 12 | Reverse Digits | C++ | 2026-08-17 | [C++](./Reverse_Digits/solution.cpp) | [README](./Reverse_Digits/README.md) |
-| 13 | Triplets with Sum in Range | Python | 2026-08-19 | [Python](./Triplets_with_Sum_in_Range/solution.py) | [README](./Triplets_with_Sum_in_Range/README.md) |
-| 14 | Who has the majority? | Python | 2026-08-18 | [Python](./Who_has_the_majority/solution.py) | [README](./Who_has_the_majority/README.md) |
+| 12 | Print n to 1 Without Loop | C++ | 2026-08-22 | [C++](./Print_n_to_1_Without_Loop/solution.cpp) | [README](./Print_n_to_1_Without_Loop/README.md) |
+| 13 | Reverse Digits | C++ | 2026-08-17 | [C++](./Reverse_Digits/solution.cpp) | [README](./Reverse_Digits/README.md) |
+| 14 | Triplets with Sum in Range | Python | 2026-08-19 | [Python](./Triplets_with_Sum_in_Range/solution.py) | [README](./Triplets_with_Sum_in_Range/README.md) |
+| 15 | Who has the majority? | Python | 2026-08-18 | [Python](./Who_has_the_majority/solution.py) | [README](./Who_has_the_majority/README.md) |
